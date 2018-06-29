@@ -1,7 +1,0 @@
-{
-    "editor.wordBasedSuggestions": false,
-    "editor.acceptSuggestionOnEnter": false,
-    "editor.quickSuggestions": false,
-    "editor.acceptSuggestionOnCommitCharacter": false,
-    "editor.parameterHints": false
-}
