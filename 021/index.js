@@ -52,5 +52,5 @@ console.log(intersection);
 
 const difference = new Set([...a].filter(
     x => !b.has(x)
-))
+));
 console.log(difference);
